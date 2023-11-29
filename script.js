@@ -15,7 +15,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: 'Genin',
         vallage: 'Leafy Village',
-        image: "https://static.wikia.nocookie.net/naruto/images/9/9f/Sasuke_Part_2.jpg/revision/latest?cb=20210404192345&path-prefix=ru" 
+        image: "https://c4.wallpaperflare.com/wallpaper/772/105/265/naruto-shippuuden-anime-fox-hatake-kakashi-wallpaper-preview.jpg" 
         
     },
     {
@@ -24,7 +24,7 @@ let shinobiWorld = [
         gender:'Female',
         rang: 'Jonin',
         vallage: 'Leafy Village',
-        image: "https://static.wikia.nocookie.net/naruto/images/f/f7/Sakura_Boruto.png/revision/latest?cb=20210224210410&path-prefix=ru" 
+        image: "https://c4.wallpaperflare.com/wallpaper/777/893/228/cropped-anime-girls-bunny-ears-mx-shimmer-wallpaper-preview.jpg" 
         
     },
     {
@@ -42,7 +42,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: 'Sanin',
         vallage: 'Leafy Village',
-        image: "https://static.wikia.nocookie.net/naruto/images/1/14/Orochimaru_Infobox.png/revision/latest?cb=20151017160235&path-prefix=ru" 
+        image: "https://c4.wallpaperflare.com/wallpaper/301/665/108/naruto-orochimaru-naruto-hd-wallpaper-preview.jpg" 
         
     },
     {
@@ -60,7 +60,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: 'Kazekage',
         vallage: 'Sand Village',
-        image: "https://static.wikia.nocookie.net/naruto/images/0/0f/Gaara_Part_II.png/revision/latest?cb=20170507172824&path-prefix=ru" 
+        image: "https://c4.wallpaperflare.com/wallpaper/803/819/660/gaara-naruto-wallpaper-preview.jpg" 
         
     },
     {
@@ -69,7 +69,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: 'Jonin',
         vallage: 'Leafy Village',
-        image: "https://static.wikia.nocookie.net/naruto/images/f/f7/Yamato_newshot.png/revision/latest?cb=20190202094154&path-prefix=ru" 
+        image: "https://c4.wallpaperflare.com/wallpaper/733/184/1016/one-piece-yamato-one-piece-hd-wallpaper-preview.jpg" 
         
     },
     {
@@ -78,7 +78,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: 'Sanin (died)',
         vallage: 'Leafy Village',
-        image: "https://static.wikia.nocookie.net/naruto/images/2/21/Profile_Jiraiya.PNG/revision/latest?cb=20170818131513&path-prefix=ru" 
+        image: "https://c4.wallpaperflare.com/wallpaper/1003/762/374/jiraya-master-naruto-giraiya-wallpaper-preview.jpg" 
         
     },
     {
@@ -87,7 +87,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: 'Jonin',
         vallage: 'Leafy Village',
-        image: "https://avatars.mds.yandex.net/get-zen_doc/1875939/pub_5dae09143d008800af129a90_5dae097005fd9800add77e3d/scale_1200" 
+        image: "https://c4.wallpaperflare.com/wallpaper/280/721/206/kiba-naruto-art-itachi-wallpaper-preview.jpg" 
         
     },
     {
@@ -96,7 +96,7 @@ let shinobiWorld = [
         gender:'Female',
         rang: 'Sanin',
         vallage: 'Leafy Village',
-        image: "https://i.ytimg.com/vi/zF-0md_Yngw/maxresdefault.jpg" 
+        image: "https://c4.wallpaperflare.com/wallpaper/972/987/822/anime-naruto-shippuuden-uzumaki-naruto-tsunade-wallpaper-preview.jpg" 
         
     },
     {
@@ -105,7 +105,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: 'Hockage (died)',
         vallage: 'Leafy Village',
-        image: "https://static.wikia.nocookie.net/naruto/images/e/e4/Hiruzen_Sarutobi.png/revision/latest?cb=20170930091606&path-prefix=ru" 
+        image: "https://c4.wallpaperflare.com/wallpaper/708/846/337/anime-demon-slayer-kimetsu-no-yaiba-tanjirou-kamado-hd-wallpaper-thumb.jpg" 
         
     },
     {
@@ -114,7 +114,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: 'Hockage (died)',
         vallage: 'Leafy Village',
-        image: "https://www.meme-arsenal.com/memes/1df9d9ba5f6965046b79a56e5c95e345.jpg" 
+        image: "https://c4.wallpaperflare.com/wallpaper/222/54/376/anime-naruto-tobirama-senju-wallpaper-preview.jpg" 
         
     },
     {
@@ -123,7 +123,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: 'Jinchuriki',
         vallage: 'Clouds Village',
-        image: "https://static.wikia.nocookie.net/character-power/images/f/fa/%D0%9A%D0%B8%D0%BB%D0%BB%D0%B5%D1%80_%D0%91%D0%B81.png/revision/latest?cb=20140326105611&path-prefix=ru" 
+        image: "https://c4.wallpaperflare.com/wallpaper/640/1007/702/snow-mountains-weapons-back-wallpaper-preview.jpg" 
         
     },
     {
@@ -132,7 +132,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: 'Hockage(died)',
         vallage: 'Leafy Village',
-        image: "https://static.wikia.nocookie.net/naruto/images/7/71/Minato_Namikaze.png/revision/latest?cb=20200324174322&path-prefix=ru" 
+        image: "https://c4.wallpaperflare.com/wallpaper/538/943/706/anime-naruto-minato-namikaze-naruto-uzumaki-wallpaper-preview.jpg" 
         
     },
     {
@@ -141,7 +141,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: 'Hockage(died)',
         vallage: 'Leafy Village',
-        image: "https://static.wikia.nocookie.net/naruto/images/0/08/Danzo_Shimura.png/revision/latest?cb=20181230092441&path-prefix=ru" 
+        image: "https://c4.wallpaperflare.com/wallpaper/706/904/957/video-game-naruto-shippuden-ultimate-ninja-storm-revolution-2-mizukage-danzo-wallpaper-preview.jpg" 
         
     },
     {
@@ -150,7 +150,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: 'Suchikage',
         vallage: 'Rock Village',
-        image: "https://static.wikia.nocookie.net/naruto/images/6/67/%C5%8Cnoki.png/revision/latest?cb=20200328000054&path-prefix=ru" 
+        image: "https://c4.wallpaperflare.com/wallpaper/365/244/884/uchiha-itachi-naruto-shippuuden-anbu-silhouette-wallpaper-thumb.jpg" 
         
     },
     {
@@ -159,7 +159,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: 'lonin',
         vallage: 'Leafy Village',
-        image: "https://static.wikia.nocookie.net/naruto/images/e/ec/Ch%C5%8Dji_Part_II.png/revision/latest?cb=20141205195635&path-prefix=ru" 
+        image: "https://c4.wallpaperflare.com/wallpaper/509/816/12/akimichi-choji-naruto-shippuden-wallpaper-preview.jpg" 
         
     },
     {
@@ -168,7 +168,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: 'Bomber(died)',
         vallage: 'Rock Village',
-        image: "https://static.wikia.nocookie.net/naruto/images/d/d3/Deidara_mugshot.png/revision/latest/top-crop/width/360/height/450?cb=20170203125226&path-prefix=ru" 
+        image: "https://c4.wallpaperflare.com/wallpaper/365/244/884/uchiha-itachi-naruto-shippuuden-anbu-silhouette-wallpaper-thumb.jpg" 
         
     },
     {
@@ -186,7 +186,7 @@ let shinobiWorld = [
         gender:'Female',
         rang: 'Jonin',
         vallage: 'Leafy Village',
-        image: "https://static.wikia.nocookie.net/naruto/images/0/0c/Ino_Part_III.png/revision/latest?cb=20201206113822&path-prefix=ru" 
+        image: "https://c4.wallpaperflare.com/wallpaper/83/13/228/naruto-hinata-hy%C5%ABga-ino-yamanaka-sakura-haruno-hd-wallpaper-preview.jpg" 
         
     },
     {
@@ -195,7 +195,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: 'Killer(programmer(died))',
         vallage: 'Leafy Village',
-        image: "https://static.wikia.nocookie.net/naruto/images/b/bb/Itachi.png/revision/latest?cb=20210225204731&path-prefix=ru" 
+        image: "https://c4.wallpaperflare.com/wallpaper/817/397/84/naruto-shippuuden-akatsuki-uchiha-itachi-wallpaper-preview.jpg" 
         
     },
     {
@@ -204,7 +204,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: 'Jonin',
         vallage: 'Leafy Village',
-        image: "https://static.wikia.nocookie.net/naruto/images/7/7c/Asuma.png/revision/latest?cb=20170426175941&path-prefix=ru" 
+        image: "https://c4.wallpaperflare.com/wallpaper/522/912/44/asuma-kurinai-naruto-anime-naruto-hd-art-wallpaper-preview.jpg" 
         
     },
     {
@@ -213,7 +213,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: 'Jonin',
         vallage: 'Leafy Village',
-        image: "https://static.wikia.nocookie.net/naruto/images/9/9a/Shikamaru_Nara.png/revision/latest?cb=20150215172830&path-prefix=ru" 
+        image: "https://c4.wallpaperflare.com/wallpaper/700/801/71/nara-shikamaru-naruto-shippuuden-japan-flag-wallpaper-preview.jpg" 
         
     },
     {
@@ -222,7 +222,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: 'Jonin',
         vallage: 'Leafy Village',
-        image: "https://static.wikia.nocookie.net/naruto/images/b/bc/Iruka.png/revision/latest?cb=20170327171916&path-prefix=ru" 
+        image: "https://c4.wallpaperflare.com/wallpaper/20/455/817/naruto-shippuuden-umino-iruka-wallpaper-preview.jpg" 
         
     },
     {
@@ -231,7 +231,7 @@ let shinobiWorld = [
         gender:'Female',
         rang: 'Jonin',
         vallage: 'Sand Village',
-        image: "https://static.wikia.nocookie.net/naruto/images/d/da/Tenten_Part_1.png/revision/latest?cb=20190123214028&path-prefix=ru" 
+        image: "https://c4.wallpaperflare.com/wallpaper/1004/126/381/naruto-shippuuden-uzumaki-naruto-jiraiya-nara-shikamaru-wallpaper-preview.jpg" 
         
     },
     {
@@ -240,7 +240,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: 'chunin(died)',
         vallage: 'Leafy Village',
-        image: "https://static.wikia.nocookie.net/naruto/images/8/8e/Neji_Part_I_Screenshot.png/revision/latest?cb=20210313213316&path-prefix=ru" 
+        image: "https://c4.wallpaperflare.com/wallpaper/870/223/789/anime-naruto-sharingan-naruto-shisui-uchiha-wallpaper-preview.jpg" 
         
     },
     {
@@ -249,7 +249,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: 'chunin(died)',
         vallage: 'Leafy Village',
-        image: "https://avatars.mds.yandex.net/get-zen-narrative-slides/403293/pub_5c4761b80eb18f00beaec768_5c4761b80eb18f00beaec769/w720" 
+        image: "https://c4.wallpaperflare.com/wallpaper/335/493/129/anime-naruto-shisui-uchiha-wallpaper-preview.jpg" 
         
     },
     {
@@ -258,7 +258,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: 'Genin(died)',
         vallage: 'Rain Village',
-        image: "https://avatars.mds.yandex.net/get-zen_doc/3413538/pub_5ec255aad47493232722f957_5ec6253e4e183c2f7f55c3d5/scale_1200" 
+        image: "https://c4.wallpaperflare.com/wallpaper/842/824/33/1kosn-action-adventure-animation-wallpaper-preview.jpg" 
         
     },
     {
@@ -267,7 +267,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: 'Genin(died)',
         vallage: 'Leafy Village',
-        image: "https://www.meme-arsenal.com/memes/573c2a833cfdb447709d75c44d3bc7bf.jpg" 
+        image: "https://c4.wallpaperflare.com/wallpaper/384/350/430/digital-art-artwork-cyber-cyberpunk-neon-hd-wallpaper-thumb.jpg" 
         
     },
     {
@@ -285,7 +285,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: 'Jonin',
         vallage: 'Leafy Village',
-        image: "https://static.wikia.nocookie.net/naruto/images/d/d4/Lee_Part_III.png/revision/latest?cb=20190205134348&path-prefix=ru" 
+        image: "https://c4.wallpaperflare.com/wallpaper/52/465/301/illustration-landscape-digital-art-mountains-wallpaper-preview.jpg" 
         
     },
     {
@@ -294,7 +294,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: 'Kuklovod(died)',
         vallage: 'Sand Village',
-        image: "https://i.pinimg.com/736x/31/0a/f8/310af8ed1836b3aa75cc7b67955eaa90.jpg" 
+        image: "https://c4.wallpaperflare.com/wallpaper/767/566/501/anime-naruto-akatsuki-naruto-deidara-naruto-wallpaper-preview.jpg" 
         
     },
     {
@@ -303,7 +303,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: 'Jonin',
         vallage: 'Sand Village',
-        image: "https://static.wikia.nocookie.net/naruto/images/2/28/Kankuro_Boruto.png/revision/latest?cb=20180425122800&path-prefix=ru" 
+        image: "https://c4.wallpaperflare.com/wallpaper/493/732/942/anime-gaara-naruto-shippuuden-kankuro-wallpaper-preview.jpg" 
         
     },
     {
@@ -312,7 +312,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: 'Skark(died)',
         vallage: 'Leafy Village',
-        image: "https://static.wikia.nocookie.net/naruto/images/8/8d/Hoshigaki_Kisame.png/revision/latest?cb=20150621205008&path-prefix=ru" 
+        image: "https://c4.wallpaperflare.com/wallpaper/521/739/601/naruto-itachi-akatsuki-deidara-wallpaper-preview.jpg" 
         
     },
     {
@@ -321,7 +321,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: 'Jonin',
         vallage: 'Leafy Village',
-        image: "https://static.wikia.nocookie.net/naruto/images/7/78/Kiba_Adult_New_Era.png/revision/latest?cb=20190216100215&path-prefix=ru" 
+        image: "https://c4.wallpaperflare.com/wallpaper/380/492/18/inuzuka-kiba-naruto-shippuuden-wallpaper-preview.jpg" 
         
     },
     {
@@ -339,7 +339,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: 'Water',
         vallage: "Orochimaru lab",
-        image: "https://static.wikia.nocookie.net/naruto/images/7/72/Suigetsu_part_III.png/revision/latest?cb=20180520182724&path-prefix=ru" 
+        image: "https://c4.wallpaperflare.com/wallpaper/910/24/10/night-artwork-futuristic-city-cyberpunk-wallpaper-thumb.jpg" 
         
     },
     {
@@ -348,7 +348,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: 'jonin',
         vallage: 'Leafy Village',
-        image: "https://static.wikia.nocookie.net/naruto/images/6/61/Ibiki_Morino.png/revision/latest?cb=20150513145429&path-prefix=ru" 
+        image: "https://c4.wallpaperflare.com/wallpaper/108/140/869/digital-digital-art-artwork-fantasy-art-drawing-hd-wallpaper-thumb.jpg" 
         
     },
     {
@@ -357,7 +357,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: 'Bro',
         vallage: 'Bishkek',
-        image: "https://static.wikia.nocookie.net/naruto/images/e/e8/Hamura.png/revision/latest?cb=20200402155357&path-prefix=ru" 
+        image: "https://c4.wallpaperflare.com/wallpaper/451/766/342/anime-naruto-hagoromo-%C5%8Ctsutsuki-hamura-%C5%8Ctsutsuki-wallpaper-preview.jpg" 
         
     },
     {
@@ -366,7 +366,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: 'Jonin',
         vallage: 'Leafy Village',
-        image: "https://static.wikia.nocookie.net/naruto/images/5/5d/Izumo_Kamizuki.png/revision/latest?cb=20190119095015&path-prefix=ru" 
+        image: "https://c4.wallpaperflare.com/wallpaper/251/585/67/anime-k-project-anna-kushina-izumo-kusanagi-wallpaper-preview.jpg" 
         
     },
     {
@@ -375,7 +375,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: 'Jonin',
         vallage: 'Leafy Village',
-        image: "http://pm1.narvii.com/6916/94118fdc8858f7ea7e8bc71c643585c7203e8526r1-1200-773v2_00.jpg" 
+        image: "https://c4.wallpaperflare.com/wallpaper/951/583/798/fantasy-art-warrior-dark-souls-iii-dark-souls-wallpaper-thumb.jpg" 
         
     },
     {
@@ -384,7 +384,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: 'Мудрец 6',
         vallage: 'Village',
-        image: "https://static.wikia.nocookie.net/naruto/images/9/9b/Hagoromo_pic_2.png/revision/latest?cb=20170104134326&path-prefix=ru" 
+        image: "https://c4.wallpaperflare.com/wallpaper/570/368/922/naruto-manga-rinnegan-rikudo-sennin-wallpaper-preview.jpg" 
         
     },
     {
@@ -402,7 +402,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: 'jonin',
         vallage: 'Rain Village',
-        image: "https://static.wikia.nocookie.net/naruto/images/4/45/Darui.png/revision/latest?cb=20150624100502&path-prefix=ru" 
+        image: "https://c4.wallpaperflare.com/wallpaper/186/923/764/video-game-naruto-shippuden-ultimate-ninja-storm-revolution-darui-naruto-naruto-wallpaper-preview.jpg" 
         
     },
     {
@@ -411,7 +411,7 @@ let shinobiWorld = [
         gender:'Female',
         rang: 'Genin',
         vallage: 'Orochimaru lab',
-        image: "https://static.wikia.nocookie.net/naruto/images/6/6e/Karin_p3.png/revision/latest?cb=20190410180505&path-prefix=ru" 
+        image: "https://c4.wallpaperflare.com/wallpaper/537/360/992/love-live-love-live-series-asaka-karin-hd-wallpaper-preview.jpg" 
         
     },
     {
@@ -420,7 +420,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: 'Jonin',
         vallage: 'Leafy Village',
-        image: "https://static.wikia.nocookie.net/naruto/images/6/6c/Sai_Part_III.png/revision/latest?cb=20201206114228&path-prefix=ru" 
+        image: "https://c4.wallpaperflare.com/wallpaper/692/81/181/naruto-shippuuden-sai-wallpaper-preview.jpg" 
         
     },
     {
@@ -429,7 +429,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: 'God(died)',
         vallage: 'Space',
-        image: "https://static.wikia.nocookie.net/naruto/images/1/13/Arco_Versus_Momoshiki.png/revision/latest?cb=20171210180323&path-prefix=ru" 
+        image: "https://c4.wallpaperflare.com/wallpaper/108/140/869/digital-digital-art-artwork-fantasy-art-drawing-hd-wallpaper-thumb.jpg" 
         
     },
     {
@@ -438,7 +438,7 @@ let shinobiWorld = [
         gender:'Male',
         rang: '',
         vallage: 'Moon',
-        image: "https://static.wikia.nocookie.net/anime-characters-fight/images/0/0f/Ootsutsuki_Toneri_%282%29.png/revision/latest?cb=20190404144842&path-prefix=ru" 
+        image: "https://c4.wallpaperflare.com/wallpaper/25/427/648/night-the-moon-naruto-art-wallpaper-preview.jpg" 
         
     },
 ]
